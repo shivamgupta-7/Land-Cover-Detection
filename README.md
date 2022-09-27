@@ -1,5 +1,7 @@
 # Land-Cover-Detection
 Presentation Link
+
+
 https://docs.google.com/presentation/d/1h3qzn4ONOf2YYVkyLOuu03DTu7gRhojmL26NJIEVj3s/edit?usp=sharing
 
 My research illustrates an innovative approach of using remote sensing in integration with GIS for forest cover assessment using U-Net convolutional network architecture and Sentinel-2 satellite imagery. 
